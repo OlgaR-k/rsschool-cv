@@ -15,3 +15,29 @@ table {
     table-layout: fixed;
     width: 500px;
 }
+
+table th,
+table td {
+  border: solid 1px;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+ul{
+    margin-top: 0px;
+    margin-bottom: 0px;	
+    display: inline-block;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+time {
+    text-align: right;
+}
